@@ -1,2 +1,4 @@
-# machine-learning-foundations-pytorch
-Machine Learning Foundations course tasks in PyTorch 
+# Machine Learning Foundations
+PyTorch implementation of tasks and exercises from Machine Learning Foundations course.
+
+Course link: https://goo.gle/ml-foundations
